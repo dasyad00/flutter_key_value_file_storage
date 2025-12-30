@@ -1,3 +1,10 @@
+## 0.1.1 - 30/12/2025
+### Updated
+* Dependency updates
+* Device Info Plus to v12
+* Secure storage expanded to v10
+* Flutter Lints to v6
+
 ## 0.1.0 - 13/02/2025
 ### Updated
 * Dependency updates
